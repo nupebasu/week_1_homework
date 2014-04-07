@@ -1,6 +1,58 @@
+
+
+
+*
 body {
   font-family: "Computer Modern Serif";
   font-size: 16pt;
+
+dd { text-indent:50px;}
+
+
+h2 small 
+  font-size: medium;
+  font-family: "Times New Roman;
+
+}
+.schedule { width:80%; border-collapse:collapse;}
+.schedule td { padding:8px; border:#999 1px solid; }
+.odd_week
+{ 
+background-color: lavender;
+}
+
+.schedule
+{
+margin:auto;
+width:80%;
+}
+.schedule table, th,
+{
+border: 1px solid black;
+}
+th
+{
+background-color:black;
+color:white;
+}
+
+.week {
+  -webkit-transform: rotate(-90deg);
+}
+
+h2
+{
+border-top-style:solid;
+border-bottom-style:outset;
+text-transform: uppercase;
+font-size: 100%;
+}
+
+
+
+.subtitle {
+  text-align: center;
+  letter-spacing: 0.15em;
 }
 
 
