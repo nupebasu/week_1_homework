@@ -9,11 +9,12 @@ body {
 dd { text-indent:50px;}
 
 
-h2 small 
+h2 small
   font-size: medium;
   font-family: "Times New Roman;
 
 }
+
 .schedule { width:80%; border-collapse:collapse;}
 .schedule td { padding:8px; border:#999 1px solid; }
 .odd_week
